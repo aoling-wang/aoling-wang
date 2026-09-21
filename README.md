@@ -6,8 +6,6 @@ Full stack developer, backend-leaning. Previously six years as an EMT in the FDN
 
 ---
 
-What I've Built
-
 #### [Nature's Medicine API](https://github.com/aoling-wang/medicinal-herbs-api) · `NestJS` `PostgreSQL` `Docker`
 Containerized REST API, 10 endpoints, 14 tests run by GitHub Actions on every push to `main`.
 
