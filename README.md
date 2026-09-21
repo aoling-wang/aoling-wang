@@ -11,7 +11,7 @@ Emergency medicine is decision-making under uncertainty — incomplete informati
 
 ## What I'm building
 
-### [Nature's Medicine API](https://github.com/aoling-wang) · `NestJS` `PostgreSQL` `Docker` `TypeORM`
+### [Nature's Medicine API](https://github.com/aoling-wang/medicinal-herbs-api) · `NestJS` `PostgreSQL` `Docker` `TypeORM`
 A containerized REST API centralizing data on medicinal herbs worldwide.
 
 - 10 endpoints, with authentication guards restricting `POST` / `PUT` / `PATCH` / `DELETE` while `GET` stays public
@@ -20,7 +20,7 @@ A containerized REST API centralizing data on medicinal herbs worldwide.
 - Docker Compose orchestrating the API and Postgres containers
 - TypeORM repositories instead of raw SQL, for readability and injection safety
 
-### [Sisyphus](https://github.com/aoling-wang) · `React Native` `Expo` `TypeScript` `MMKV`
+### [Sisyphus](https://github.com/aoling-wang/neurodivergent-task-manager) · `React Native` `Expo` `TypeScript` `MMKV`
 A task manager for neurodivergent users.
 
 Most task apps assume that once you've written a task down, you can start it. For a lot of people, that assumption is exactly where everything falls apart. Sisyphus is built around the three failure points research actually identifies: initiation, continuation, completion.
@@ -29,7 +29,7 @@ Most task apps assume that once you've written a task down, you can start it. Fo
 - Local-first storage with MMKV — no account, no network dependency
 - 10 reusable components with derived state for fast filtering and re-renders
 
-### [Authenticator Microservice](https://github.com/aoling-wang) · `Python` `FastAPI` `SQLAlchemy` `SQLite`
+### [Authenticator Microservice](https://github.com/aoling-wang/authenticator-fastapi-microservice) · `Python` `FastAPI` `SQLAlchemy` `SQLite`
 A modular auth layer designed to drop into other projects instead of being rebuilt each time.
 
 - bcrypt hashing with salting before any storage
@@ -37,7 +37,7 @@ A modular auth layer designed to drop into other projects instead of being rebui
 - Pydantic request/response schemas validating credential format at the boundary
 - Containerized, with relational tables for user and credential data
 
-### [Error Alert Microservice](https://github.com/aoling-wang) · `Python` `HTTPX` `re`
+### [Error Alert Microservice](https://github.com/aoling-wang/error-log-alert-microservice) · `Python` `HTTPX` `re`
 A lightweight notification layer, built because I wanted to know when things broke without watching logs.
 
 - Regex parsing to filter `ERROR` and `CRITICAL` log lines
