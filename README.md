@@ -6,16 +6,18 @@ Full stack developer, backend-leaning. Previously six years as an EMT in the FDN
 
 ---
 
-### 🌿 [Nature's Medicine API](https://github.com/aoling-wang/medicinal-herbs-api) · `NestJS` `PostgreSQL` `Docker`
+What I've Built
+
+#### [Nature's Medicine API](https://github.com/aoling-wang/medicinal-herbs-api) · `NestJS` `PostgreSQL` `Docker`
 Containerized REST API, 10 endpoints, 14 tests run by GitHub Actions on every push to `main`.
 
-### 🪨 [Sisyphus](https://github.com/aoling-wang/neurodivergent-task-manager) · `React Native` `Expo` `TypeScript`
+#### [Sisyphus](https://github.com/aoling-wang/neurodivergent-task-manager) · `React Native` `Expo` `TypeScript`
 A task manager for neurodivergent users. Most task apps assume that once you've written a task down, you can start it — for a lot of people that's exactly where it falls apart.
 
-### 🔐 [Authenticator Microservice](https://github.com/aoling-wang/authenticator-fastapi-microservice) · `FastAPI` `SQLAlchemy`
+#### [Authenticator Microservice](https://github.com/aoling-wang/authenticator-fastapi-microservice) · `FastAPI` `SQLAlchemy`
 Drop-in auth layer — bcrypt hashing, Pydantic-validated schemas.
 
-### 🚨 [Error Alert Microservice](https://github.com/aoling-wang/error-log-alert-microservice) · `Python` `HTTPX`
+#### [Error Alert Microservice](https://github.com/aoling-wang/error-log-alert-microservice) · `Python` `HTTPX`
 Parses logs, sends formatted alerts to Discord via webhooks.
 
 ---
