@@ -15,7 +15,7 @@ A task manager for neurodivergent users. Most task apps assume that once you've 
 #### [Authenticator Microservice](https://github.com/aoling-wang/authenticator-fastapi-microservice) · `FastAPI` `SQLAlchemy`
 Drop-in auth layer — bcrypt hashing, Pydantic-validated schemas.
 
-And more below...
+**And more below...**
 
 ---
 
